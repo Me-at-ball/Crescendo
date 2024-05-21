@@ -1,0 +1,58 @@
+{
+  "songs":[
+    {
+      "id":"s_0001",
+      "numerical_id":1,
+      "version_list":[
+        {
+          "version_id":"01",
+          "version_name":"Original version",
+          "version_release_time":"0"
+        }
+      ],
+      "difficulty":["6","9","11+","16+"],
+      "name":"Long Shot",
+      "author":"Ichikers",
+      "license_text":null,
+      "original_link":null,
+      "release_time":"0",
+      "unlock_conditon":"shop"
+    },
+    {
+      "id":"s_0002",
+      "numerical_id":2,
+      "version_list":[
+        {
+          "version_id":"01",
+          "version_name":"Original version",
+          "version_release_time":"0"
+        }
+      ],
+      "difficulty":["7","9","11","15+"],
+      "name":"Hold steady",
+      "author":"Ichikers",
+      "license_text":null,
+      "original_link":null,
+      "release_time":"0",
+      "unlock_conditon":"default"
+    },
+    {
+      "id":"s_0003",
+      "numerical_id":3,
+      "version_list":[
+        {
+          "version_id":"01",
+          "version_name":"Original version",
+          "version_release_time":"0"
+        }
+      ],
+      "difficulty":["4","6","9+","12"],
+      "name":"Yellow-Orange",
+      "author":"Ichikers",
+      "license_text":null,
+      "original_link":null,
+      "release_time":"0",
+      "unlock_conditon":"default"
+    }
+  ]
+}
