@@ -7,12 +7,11 @@
         {
           "version_id":"01",
           "version_name":"Original version",
-          "version_release_time":"0"
+          "version_release_time":"0",
+          "name_svg":null
         }
       ],
       "difficulty":["6","9","11+","16+"],
-      "name":"Long Shot",
-      "author":"Ichikers",
       "license_text":null,
       "original_link":null,
       "release_time":"0",
@@ -25,12 +24,11 @@
         {
           "version_id":"01",
           "version_name":"Original version",
-          "version_release_time":"0"
+          "version_release_time":"0",
+          "name_svg":null
         }
       ],
       "difficulty":["7","9","11","15+"],
-      "name":"Hold steady",
-      "author":"Ichikers",
       "license_text":null,
       "original_link":null,
       "release_time":"0",
@@ -43,12 +41,11 @@
         {
           "version_id":"01",
           "version_name":"Original version",
-          "version_release_time":"0"
+          "version_release_time":"0",
+          "name_svg":null
         }
       ],
       "difficulty":["4","6","9+","12"],
-      "name":"Yellow-Orange",
-      "author":"Ichikers",
       "license_text":null,
       "original_link":null,
       "release_time":"0",
