@@ -6,7 +6,7 @@
       "version_list":[
         {
           "version_id":"01",
-          "version_name":"Original version",
+          "version_name":"original",
           "version_release_time":"0",
           "name_svg":null
         }
@@ -15,7 +15,8 @@
       "license_text":null,
       "original_link":null,
       "release_time":"0",
-      "unlock_conditon":"shop"
+      "unlock_conditon":"shop",
+      "original_song": true
     },
     {
       "id":"s_0002",
@@ -23,7 +24,7 @@
       "version_list":[
         {
           "version_id":"01",
-          "version_name":"Original version",
+          "version_name":"original",
           "version_release_time":"0",
           "name_svg":null
         }
@@ -32,7 +33,8 @@
       "license_text":null,
       "original_link":null,
       "release_time":"0",
-      "unlock_conditon":"default"
+      "unlock_conditon":"clear00010007",
+      "original_song": true
     },
     {
       "id":"s_0003",
@@ -40,7 +42,7 @@
       "version_list":[
         {
           "version_id":"01",
-          "version_name":"Original version",
+          "version_name":"original",
           "version_release_time":"0",
           "name_svg":null
         }
@@ -49,7 +51,62 @@
       "license_text":null,
       "original_link":null,
       "release_time":"0",
-      "unlock_conditon":"default"
+      "unlock_conditon":"default",
+      "original_song": true
+    },
+    {
+      "id":"s_0007",
+      "numerical_id":7,
+      "version_list":[
+        {
+          "version_id":"01",
+          "version_name":"original",
+          "version_release_time":"0",
+          "name_svg":null
+        }
+      ],
+      "difficulty":["5","7","9","14"],
+      "license_text":null,
+      "original_link":"https://youfulca.itch.io/legendary-jrpg-battle-music-pack",
+      "release_time":"0",
+      "unlock_conditon":"default",
+      "original_song": false
+    },
+    {
+      "id":"s_0008",
+      "numerical_id":8,
+      "version_list":[
+        {
+          "version_id":"01",
+          "version_name":"original",
+          "version_release_time":"0",
+          "name_svg":null
+        }
+      ],
+      "difficulty":["7","9","12","17"],
+      "license_text":null,
+      "original_link":"https://youfulca.itch.io/legendary-jrpg-battle-music-pack",
+      "release_time":"0",
+      "unlock_conditon":"shop",
+      "original_song": false
+    },
+    {
+      "id":"s_0011",
+      "numerical_id":11,
+      "version_list":[
+        {
+          "version_id":"01",
+          "version_symbol":"original",
+          "version_release_time":"0",
+          "name_svg":null
+        }
+      ],
+      "difficulty":["3","5","8","10+"],
+      "license_text":null,
+      "original_link":null,
+      "release_time":"0",
+      "unlock_conditon":"default",
+      "original_song": true
     }
   ]
 }
